@@ -99,7 +99,8 @@ footer a:link, footer a:visited {
   display: block;
   margin-right: auto;
   margin-left: auto;
-  display: block;
+	width: 70%;
+	heigth: 50%;
   
 }
 
