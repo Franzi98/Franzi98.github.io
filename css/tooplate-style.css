@@ -89,8 +89,10 @@ footer a:link, footer a:visited {
 .tm-site-header-box {
   width: 100%;
   display: inline-block;
-  padding: 40px 80px 40px 40px;
+  padding: 40px 80px 40px 250px;
   margin: 40px 40px 100px;
+  position: relative;
+  
 }
 .logoMarconi{
   max-width: 100%;
@@ -99,6 +101,7 @@ footer a:link, footer a:visited {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  
 }
 
 .tm-site-title {
