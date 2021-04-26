@@ -88,6 +88,7 @@ footer a:link, footer a:visited {
 
 .tm-site-header-box {
   width: 100%;
+  height: 100%;
   display: inline-block;
   padding: 40px 80px 40px 250px;
   margin: 40px 40px 100px;
@@ -96,8 +97,9 @@ footer a:link, footer a:visited {
 }
 .logoMarconi{
   display: block;
-  margin-left: auto;
   margin-right: auto;
+  margin-left: auto;
+  display: block;
   
 }
 
@@ -660,3 +662,4 @@ figure.effect-goliath:hover p {
 .tm-static {
   position: static;
 }
+
